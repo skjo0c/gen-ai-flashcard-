@@ -1,0 +1,13 @@
+node_modules/
+.env
+
+# Python
+__pycache__/
+
+server/genai-project/bin/
+server/genai-project/include/
+server/genai-project/lib/
+server/genai-project/lib64/
+server/genai-project/pyvenv.cfg
+
+.vscode/
